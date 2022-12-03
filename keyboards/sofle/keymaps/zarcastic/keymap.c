@@ -1,3 +1,4 @@
+// clang-format off
 #include QMK_KEYBOARD_H
 
 #include "print.h"
@@ -395,3 +396,4 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
 }
 
 #endif
+// clang-format on
